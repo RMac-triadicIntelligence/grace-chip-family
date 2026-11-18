@@ -1,0 +1,24 @@
+GRACE Chip Family Workbench Record v0.3
+Copyright (c) 2026 Soulshine. All rights reserved.
+
+Author: Rusty W. McMurray. Authorship credit belongs to the author; all
+rights in the Licensed Work are held by Soulshine.
+
+Licensed under the Business Source License 1.1 (BUSL-1.1). See LICENSE.
+Change Date: 2030-09-02. Change License: Apache License, Version 2.0.
+Additional Use Grant: None.
+
+Credits, as stated in the record:
+- Minato, the independently built software authorization core tested in
+  b3-minato-cold-fence, is by Jean-Guillaume Nardi.
+- KENTA, the independent symbolic architecture in the TQNM x KENTA
+  cross-test, was built by Jean-Guillaume Nardi. It is a cousin system,
+  not part of the chip.
+- The SDKP coordinate framework is credited to Donald Paul Smith.
+- Entries marked DRAFT in Appendix A are wording proposed by Claude on
+  Nov 16 2026 and not yet ruled on by the author.
+
+Third party: the BUSL-1.1 license text is copyright (c) 2017 MariaDB
+Corporation Ab. "Business Source License" is a trademark of MariaDB
+Corporation Ab. Used under the permission granted in that text, subject to
+its Covenants of Licensor.
